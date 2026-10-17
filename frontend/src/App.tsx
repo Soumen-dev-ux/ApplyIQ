@@ -376,7 +376,7 @@ export default function App() {
       </div>
 
       <footer className="text-center text-xs muted mt-8">
-        ApplyIQ AI · Evidence before embellishment · Strictly 1-page resume · Clickable hyperlinks
+        Designed and Developed by <a href="https://tinyurl.com/Soumen-Pore" target="_blank" rel='onopener'>Soumen Pore</a>
       </footer>
     </div>
   );
